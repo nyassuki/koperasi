@@ -1,0 +1,8 @@
+{
+  "name": "Koperasi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "d76dbc8d"
+}
